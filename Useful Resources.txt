@@ -1,0 +1,3 @@
+ShaderToy.com - shaders 
+
+https://github.com/github/gitignore - all git ignores
