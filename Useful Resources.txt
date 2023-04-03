@@ -3,3 +3,9 @@ ShaderToy.com - shaders
 https://github.com/github/gitignore - all git ignores
 
 https://sketchfab.com/3d-models/invincible-d735b688361541928957900d2eb93f92 - invincible model
+
+Submitting VS Projects
+- show hidden files and delete .vs folder
+- pull .exe and any other necessary files out of release and store with main scripts
+- delete debug and release folders and any other temp folders
+- zip folder
